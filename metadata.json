@@ -1,0 +1,7 @@
+{
+  "name": "Horticultural LED controller GUI",
+  "description": "An advanced tool for designing implimenting  24-hour custom light spectrum recipes for horticultural applications. Create, visualize, and export lighting schedules for different plants.",
+  "requestFramePermissions": [
+    "serial"
+  ]
+}
